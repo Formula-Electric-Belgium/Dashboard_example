@@ -17,3 +17,7 @@ In this example the buzzer is being actuated.
 
 ## Example
 In the example a basic icon pack with 2 pictures is included. This are both a green and a red circle. If pin 52 of the arduino mega is set high the red circle will appear, if the pin is pulled low, the green circle will appear. The `display_write_variable` function is an example of how you could build and send the data to the screen. 
+
+
+## Problems?
+If you have any problems with this example, feel free to make an issue or contact me [wouter.heerwegh@formulaelectric.be](mailto:wouter.heerwegh@formulaelectric.be)
